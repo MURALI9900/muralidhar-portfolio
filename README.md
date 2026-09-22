@@ -1,6 +1,6 @@
 # Muralidhar R — Portfolio
 
-A production-ready personal developer portfolio for **Muralidhar R**, Senior Consultant / Java Full Stack Developer.
+A responsive personal developer portfolio for **Muralidhar R**, Senior Consultant / Java Full Stack Developer.
 
 ## Portfolio
 
@@ -53,7 +53,8 @@ The portfolio uses the GitHub profile image as the live profile image, so the di
 ## Selected GitHub projects
 
 - [FinBank Digital Banking Platform](https://github.com/MURALI9900/finbank-digital-banking-platform)
-- [Banking Transaction Management](https://github.com/MURALI9900/banking-transaction-management)
+- [Banking Transaction Management API](https://github.com/MURALI9900/banking-transaction-management-api)  
+- [Banking Transaction Management UI](https://github.com/MURALI9900/banking-transaction-management-ui)
 - [Paradise Nursery](https://github.com/MURALI9900/paradise-nursery)
 
 ## Deployment

@@ -1,6 +1,6 @@
 # Muralidhar R — Portfolio
 
-A responsive personal developer portfolio for **Muralidhar R**, Senior Consultant / Java Full Stack Developer.
+A responsive personal developer portfolio for **Muralidhar R**, Senior Consultant / Full Stack Developer.
 
 ## Portfolio
 
@@ -10,7 +10,7 @@ A responsive personal developer portfolio for **Muralidhar R**, Senior Consultan
 
 ## Profile
 
-Java Full Stack Developer with **4.5+ years** of experience building and supporting enterprise BFSI applications for international banking and insurance clients across the Middle East, East Africa and Europe.
+Full Stack Developer with **4.5+ years** of experience building and supporting enterprise BFSI applications for international banking and insurance clients across the Middle East, East Africa and Europe.
 
 ### Highlights
 
